@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello 👋  
+Hello 👋 ,I'm an Android developer worked in Dreame.SuZhou 😄 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mrxxy)](https://github.com/anuraghazra/github-readme-stats)
 
